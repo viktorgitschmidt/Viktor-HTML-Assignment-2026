@@ -245,3 +245,16 @@ textarea {
   }
 }
 
+h1 {
+  font-size: 100px;
+  font-family: "American Typewriter", sans-serif;
+  font-style: oblique;
+  color: rgba(235, 142, 100, 0.50);
+}
+
+p {
+  font-size: 15px;
+  font-family: Arial, Narrow Sans, sans-serif;
+  font-weight: 800;
+  font-style: oblique
+}
